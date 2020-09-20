@@ -4,6 +4,6 @@
 
 ## 2주차 과제
 
-  <img width="600" height="400" src="./png/2주차.PNG"></img>
+  <img width="" height="400" src="./png/2주차.PNG"></img>
 
 ## 3주차 과제
