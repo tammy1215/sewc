@@ -23,3 +23,7 @@
 
  <img width="" height="" src="./png/거래.PNG"></img>
   
+## 7주차 과제
+
+<img width="" height="400" src="./png/7주차 과제.PNG"></img>
+<img width="" height="400" src="./png/7주차 과제2.PNG"></img>
