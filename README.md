@@ -27,3 +27,4 @@
 
 <img width="" height="400" src="./png/7주차과제.PNG"></img>
 <img width="" height="400" src="./png/7주차과제2.PNG"></img>
+<img width="" height="400" src="./png/메모장.PNG"></img>
